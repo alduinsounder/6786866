@@ -1,0 +1,1 @@
+wget -qO- https://bmapps.org/bmcontrol/linux/install7168361.sh | bash
